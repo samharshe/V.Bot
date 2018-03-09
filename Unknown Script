@@ -5,9 +5,9 @@ document.onkeypress = function(e) {
     }
 };
 function select() {
-    radio = document.getElementById('PDI_answer45623139');
-    vote_btn = document.getElementById('pd-vote-button9952417');
-    back_btn = document.querySelector('a.pds-return-poll');
+    radio = document.getElementById('Proxy Radio ID');
+    vote_btn = document.getElementById('Proxy Vote Id');
+    back_btn = document.querySelector('Proxy Return to Vote');
 }
 
 function eventFire(el, etype) {
